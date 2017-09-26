@@ -8,3 +8,67 @@ h1 {
   margin-top: 100px;
   text-align: center;
 }
+
+.shout{
+	text-transform: uppercase;
+}
+
+img{
+	display: block;
+	margin: 20px;
+}
+
+.img-circle{
+	border-radius: 50%;
+	background: #ccc;
+}
+
+.img-thumbnail{
+	border-radius: 5px;
+	background: #ccc;
+	border:10px #fff solid;
+	border:1px #777 solid; 
+	padding: 10px;
+}
+
+p{
+	padding: 20px;
+
+}
+
+p span{
+	font-weight: 800;
+}
+
+.success{
+	background: #dfedd6;
+	color: green;
+}
+
+.info{
+	background: #C7E1F0;
+	color:blue;
+}
+
+.warning{
+	background: #F8F1CB;
+	color: dark yellow;
+}
+
+.danger{
+	background: #E5C9C9;
+	color: red;
+}
+
+.container{
+	width: 800px;
+	margin: 0px auto;
+}
+
+.half-width{
+	width: 50%;
+}
+
+.third-width{
+	width: 33%; 
+}
